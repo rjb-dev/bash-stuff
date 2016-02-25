@@ -8,7 +8,7 @@ read word1 word2
 echo "Here is your input; \"$word1\" \"$word2\""
 echo -e "How do you feel about bash scripting?"
 read
-echo "You said $REPLY, I'm glad to hear it! "
+echo "You said $REPLY, What a nerd! "
 echo -e "What are your favourite colours?"
 
 read -a colours
